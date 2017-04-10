@@ -7,8 +7,8 @@ During the week I got introduced to a concept called the pull request and
 that is one of the things I am going to talk about in this post. But 
 first let me properly introduce the project I am working on.
 
-I am working on a project called **January** which stands for Java
-Numeral Arrays (?), basicly it's numPy for Java. There are two companys
+I am working on a project called **January** which stands for JAva NUmerical
+ARrays, basicly it's numPy for Java. There are two companys
 supporting the project: Diamond Light Source, and Kichwa Coders. I am 
 working with Kichwa Coders.
 
