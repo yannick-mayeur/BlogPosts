@@ -24,8 +24,9 @@ reject the request.
 This concept is **very** important and will probably folow me during my
 whole internship.
 
-After doing some minor fixes to the project my real job began. I had to
-to rewrite the POM files of the **January** project in a way so someone 
-who wants to use **January** in his own project only has to import it 
-through maven's POM files. This was harder than I expected and I will have
+After doing some minor fixes (https://github.com/eclipse/january/pull/136
+and https://github.com/eclipse/january/pull/141)to the project my real job 
+began. I had to to rewrite the POM files of the **January** project in a way
+so someone who wants to use **January** in his own project only has to import
+it through maven's POM files. This was harder than I expected and I will have
 to finish this next week.
