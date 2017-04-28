@@ -6,7 +6,7 @@ help you get started with **gerrit** and contributing to **CDT**.
 
 ## The required tools & knowledge
 
-Having git is basiclly all you need to get the sources, and push them. If you
+Having git is basically all you need to get the sources, and push them. If you
 want to edit them in a good environment use the [Eclipse JAVA
 IDE](https://eclipse.org/downloads/packages/release/Neon/3). Knowing the basics
 of git is also required even thought I think you could learn git and this at
