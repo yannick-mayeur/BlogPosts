@@ -1,8 +1,20 @@
 # WEEK FOUR: Get started with gerrit on CDT
 
-Last week I talked about **gerrit**, which basiclly is an improved pull
-request. I now have more experience with it, and I think I can with this post
-help you get started with **gerrit** and contributing to **CDT**.
+You are maybe familiar with the pull request system of **GitHub** programmers
+(you) use to contribute to an open-source project. **Gerrit** basically is an
+improved version of this system. It allows the committer to give more precise
+feedback on each line of code you changed, and is more complete overall.
+**Eclipse CDT** uses **gerrit** for the community to contribute. In this blog
+post I will try to show you how to efficiently get started with it.
+
+## The required tools & knowledge
+
+Having git is basically all you need to get the sources, and push them. If you
+want to edit them in a good environment use the [Eclipse JAVA
+IDE](https://eclipse.org/downloads/packages/release/Neon/3). Knowing the basics
+of git is also required even thought I think you could learn git and this at
+the same time, it will just take a little more practice and tries.
+
 
 ## The required tools & knowledge
 
@@ -77,9 +89,12 @@ to do it:
   * pull the changes
   * get back to your branch and do: `git rebase master`
 
-## How I used and acquired this knowledge
+## Conclusion
 
 I worked on [Bug 515296](https://bugs.eclipse.org/bugs/show_bug.cgi?id=515296)
 with Pierre Sachot. So we both had to learn how to use git at our advantage. By
 the end of the week, and a couple reviews later we were very near to having
 achieved the fix and it being pushed to the main repository of **Eclipse CDT**.
+
+
+better conclusion
