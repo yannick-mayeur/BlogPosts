@@ -15,15 +15,6 @@ IDE](https://eclipse.org/downloads/packages/release/Neon/3). Knowing the basics
 of git is also required even thought I think you could learn git and this at
 the same time, it will just take a little more practice and tries.
 
-
-## The required tools & knowledge
-
-Having git is basically all you need to get the sources, and push them. If you
-want to edit them in a good environment use the [Eclipse JAVA
-IDE](https://eclipse.org/downloads/packages/release/Neon/3). Knowing the basics
-of git is also required even thought I think you could learn git and this at
-the same time, it will just take a little more practice and tries.
-
 ## How to get the sources of CDT
 
 Cloning the sources to your computer is an easy but essential task. Getting
@@ -91,10 +82,9 @@ to do it:
 
 ## Conclusion
 
-I worked on [Bug 515296](https://bugs.eclipse.org/bugs/show_bug.cgi?id=515296)
-with Pierre Sachot. So we both had to learn how to use git at our advantage. By
-the end of the week, and a couple reviews later we were very near to having
-achieved the fix and it being pushed to the main repository of **Eclipse CDT**.
-
-
-better conclusion
+Gerrit is an improved pull-request but this improvement comes with a harder
+getting-started phase. You indeed have do get though a bit more work to push
+your first change to gerrit, install a hook, understand how to work with a
+collaborator, etc. But in the end the better options like the feedback, or the
+fact that you don't have to fork the project make it better for big projects
+like CDT.
