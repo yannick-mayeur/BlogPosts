@@ -37,6 +37,7 @@ public void testCrossings3() {
 ```
 This shows what the values are looking like:
 ![behaviour](https://cloud.githubusercontent.com/assets/14848887/26053575/49820a9c-3961-11e7-80be-c7cc338d7a1e.png)
+
 The expected behaviour of the method as written in the test would be that the 3
 crossing points would be merged into one at 2.5, but this wasn't what was
 happening, indeed the code was using ">" instead of ">=". If not tested this
